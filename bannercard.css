@@ -1,0 +1,34 @@
+
+aside {
+    
+    background: url('/asset/images/banner-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 100%; */
+    background-size: 100%;
+    
+    text-transform: capitalize;
+   
+
+}
+
+
+ div{
+    
+    text-align: center;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+ button:hover{
+    transform: scale(0.9);
+}
+
+
+
+
+
